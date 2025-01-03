@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh Prakash Mandavkar</h1>
-<h3 align="center">FUll Stack Python & Gen AI Developer from India</h3>
+<h3 align="center">Full Stack Python & Gen AI Developer from India</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tkyl1l7u7qwoe41pth7ysnip59fdnulxi7bxrd0y&rid=giphy.gif&ct=g"  height="300" width="500">
 
 <h3 align="left">Connect with me:</h3>
